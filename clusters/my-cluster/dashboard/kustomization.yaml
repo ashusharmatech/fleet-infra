@@ -1,4 +1,4 @@
 resources:
   - dashboard-deployment.yaml
   - dashboard-sa.yaml
-
+  - dashboard-clusterrolebinding.yaml
