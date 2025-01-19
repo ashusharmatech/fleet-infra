@@ -1,0 +1,3 @@
+resources:
+  - dashboard-deployment.yaml
+  - dashboard-sa.yaml
